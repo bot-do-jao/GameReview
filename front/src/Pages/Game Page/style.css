@@ -1,0 +1,163 @@
+/* Styling the Top Page */
+.Top-Page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 970px;
+
+    border-bottom: solid 7px #7232E7;
+    background: linear-gradient(45deg, #2B0D5F -5.81%, rgba(43, 13, 95, 0) 87.38%);
+}
+
+/*Styling the Main-Content*/
+.Main-Content{
+    width: 1200px;
+    height: 747px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(27, 27, 27, 0.8);
+    border-radius: 60px;
+}
+
+/*Styling the Title*/
+.Game-Title{
+    margin-top: 44px;
+}
+
+/*Styling the content/images from the game*/
+.Game-Content{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+
+    font-size: 42px;
+    color: #000000;
+}
+
+.Game-Trailer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 662.94px;
+    height: 420px;
+    background: #C4C4C4;
+    border: 2px solid #FFFFFF;
+
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.imageone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 20px;
+    background: #C4C4C4;
+    border: 2px solid #FFFFFF;
+}
+
+
+/*Styling the score and list button*/
+.Game-Score-List{
+    width: 1200px;
+    padding-left: 523px;
+    margin-bottom: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+}
+
+.Public-Score{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/*Styling the Bottom Page*/
+.Bottom-Page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*Styling the Content of Bottom Page*/
+.Sec-Content{
+    width: 791px;
+}
+
+/*Styling the Title*/
+.Sec-Title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.titulozo{
+    font-weight: 600;
+    font-size: 38px;
+    padding: 10px 22px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 5px solid #7232E7;
+    border-radius: 25.5px;
+}
+
+/*Styling the Sinopse*/
+.Sinopse-Text{
+    margin-bottom: 60px;
+    width: 790px;
+}
+
+.Sec-Content-Title-Left{
+    font-size: 24px;
+    font-weight: 600;
+
+    margin-bottom: 20px;
+    padding-left: 5px;
+    border-left: 8px solid #7232E7;
+}
+
+/*Styling the Rest of the Info*/
+.Sec-Rest-Info{
+    margin-bottom: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Sec-Content-Title-Right{
+    font-size: 24px;
+    font-weight: 600;
+    text-align: right;
+
+    margin-bottom: 20px;
+    padding-right: 5px;
+    border-right: 8px solid #7232E7;
+}
+
+.Topzeira{
+    margin-bottom: 41px;
+}
+
+.RI-Right-Text{
+    text-align: right;
+}
+
+.Sec-Left-Text, .Sec-Right-Text{
+    max-width: 275px;
+}

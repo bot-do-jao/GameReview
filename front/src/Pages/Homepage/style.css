@@ -1,0 +1,63 @@
+body{
+    background-color: #262626;
+    margin: 0;
+    color: #FFFFFF;
+    font-family: 'Montserrat','Courier New', Courier, monospace;
+}
+.degrade{
+    background: linear-gradient(304.53deg, #2B0D5F -5.81%, rgba(43, 13, 95, 0) 87.38%);
+}
+
+main{
+    overflow: auto;
+    padding: 10px 58px;
+}
+.banner-principal{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+
+.titulindafiel{
+    margin-bottom: 30px;
+    padding-left: 30px;
+}
+
+.lancamentos{
+    margin-bottom: 60px;
+}
+
+.game-title{
+    margin-top: 15px;
+}
+
+.inline{
+    display: flex;
+    flex-direction: row;
+    padding-left: 120px;
+    padding-right: 120px;
+    justify-content: space-around;
+}
+.banner-pequeno{
+    padding-top: 10px;
+    width: 300px;
+    cursor: pointer;
+}
+ul.sem-marcador{
+    list-style: none;
+}
+h3.game-title{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+
+.loadao{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}

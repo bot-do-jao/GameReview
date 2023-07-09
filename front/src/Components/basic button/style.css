@@ -1,0 +1,19 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.botao{
+    color: #ffffff;
+    background-color: #410088;
+    min-height: 55px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.botao:hover{
+    background-color: #2b0d5f;
+}
+.botao:active{
+    background-color: #410088;
+}

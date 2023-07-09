@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+## Game Review
+
+Esse repositório é dedicado ao projeto da disciplina Desenvolvimento de Software e contém o resultado final dos dois repositórios trabalhados pelo período da matéria. 
+
+Nele foram usado node.js e mongoDB para o backend e React.js para o front-end
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
